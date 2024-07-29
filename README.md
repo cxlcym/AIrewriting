@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/github/languages/code-size/cxlcym/AIrewriting" alt="code size"/><img src="https://img.shields.io/github/languages/count/cxlcym/AIrewriting" alt="languages"/><img src="https://img.shields.io/github/last-commit/cxlcym/AIrewriting" alt="last commit"/>
 <br>
 <p align="center">
-![](https://img.shields.io/github/forks/cxlcym/AIrewriting?style=social)![](https://img.shields.io/github/watchers/cxlcym/AIrewriting?style=social )![](https://img.shields.io/github/stars/cxlcym/AIrewriting?color=green&style=social)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cxlcym&repo=AIrewritings)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
  <br> <img src="https://img.shields.io/badge/Author-JackCao-orange" alt="Author" />
   
