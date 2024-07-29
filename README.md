@@ -1,10 +1,8 @@
+
 <h1 align="center">文章自动AI改写润色</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/github/languages/code-size/cxlcym/AIrewriting" alt="code size"/><img src="https://img.shields.io/github/languages/count/cxlcym/AIrewriting" alt="languages"/><img src="https://img.shields.io/github/last-commit/cxlcym/AIrewriting" alt="last commit"/>
-<br>
-<p align="center">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cxlcym&repo=AIrewritings)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
+  <img src="https://img.shields.io/github/languages/code-size/cxlcym/AIrewriting" alt="code size"/><img src="https://img.shields.io/github/languages/count/cxlcym/AIrewriting" alt="languages"/><img src="https://img.shields.io/github/last-commit/cxlcym/AIrewriting" alt="last commit"/>![GitLab Stars](https://img.shields.io/gitlab/stars/cxlcym%2FAIrewriting)![GitLab Forks](https://img.shields.io/gitlab/forks/cxlcym%2FAIrewriting)
  <br> <img src="https://img.shields.io/badge/Author-JackCao-orange" alt="Author" />
   
   
@@ -49,6 +47,6 @@ This script is used to convert web content into Markdown and interact with AI（
 
 [Now Or Never](https://cxlcym.github.io/ "Now Or Never")  
 
-
+![Visitor Count](https://profile-counter.glitch.me/cxlcym/count.svg)
 </p>
 <hr>
