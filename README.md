@@ -1,8 +1,10 @@
 <h1 align="center">文章自动AI改写润色</h1>
-
 <p align="center">
   <img src="https://img.shields.io/github/languages/code-size/cxlcym/AIrewriting" alt="code size"/><img src="https://img.shields.io/github/languages/count/cxlcym/AIrewriting" alt="languages"/><img src="https://img.shields.io/github/last-commit/cxlcym/AIrewriting" alt="last commit"/>
-  <br>![](https://img.shields.io/github/forks/cxlcym/AIrewriting?style=social)![](https://img.shields.io/github/watchers/cxlcym/AIrewriting?style=social )![](https://img.shields.io/github/stars/cxlcym/AIrewriting?color=green&style=social)
+<br>
+<p align="center">
+![](https://img.shields.io/github/forks/cxlcym/AIrewriting?style=social)![](https://img.shields.io/github/watchers/cxlcym/AIrewriting?style=social )![](https://img.shields.io/github/stars/cxlcym/AIrewriting?color=green&style=social)
+<p align="center">
  <br> <img src="https://img.shields.io/badge/Author-JackCao-orange" alt="Author" />
   
   
